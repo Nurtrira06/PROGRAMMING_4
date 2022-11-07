@@ -1,4 +1,0 @@
-#Wed Nov 02 09:07:23 ICT 2022
-base.0=D\:\\TUGAS_MATERI\\SMT5\\PEMRO4\\HelloSharedPrefs\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
